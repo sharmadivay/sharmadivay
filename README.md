@@ -11,15 +11,21 @@ Passionate about turning complex problems into simple, elegant solutions, I spec
 🔧 My Toolkit
 
 MongoDB: Schema-less, NoSQL database design.
+
 Express.js: Backend routing and middleware mastery.
+
 React.js: Interactive, responsive UI development.
+
 Node.js: Efficient, event-driven server-side programming.
 
 I also dabble in:
 
 JavaScript (ES6+): From vanilla JS to cutting-edge frameworks.
+
 Redux: State management for complex applications.
+
 Git & GitHub: Version control and collaboration.
+
 RESTful APIs: Creating and consuming APIs like a pro.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🌱 Continuous Learning
