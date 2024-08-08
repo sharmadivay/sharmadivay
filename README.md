@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**sharmadivay/sharmadivay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hello, I'm Divay Sharma!
+🔗 MERN Stack Developer | 🌟 Continuous Learner | 🎨 Code Artist
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🚀 About Me
+Passionate about turning complex problems into simple, elegant solutions, I specialize in the MERN stack—crafting dynamic, full-stack applications with MongoDB, Express, React, and Node.js. Whether it's a sleek front-end interface or a robust back-end system, I enjoy the challenge of building web applications that are both powerful and user-friendly.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🔧 My Toolkit
+MongoDB: Schema-less, NoSQL database design.
+Express.js: Backend routing and middleware mastery.
+React.js: Interactive, responsive UI development.
+Node.js: Efficient, event-driven server-side programming.
+I also dabble in:
+JavaScript (ES6+): From vanilla JS to cutting-edge frameworks.
+Redux: State management for complex applications.
+Git & GitHub: Version control and collaboration.
+RESTful APIs: Creating and consuming APIs like a pro.
+🌱 Continuous Learning
+In the ever-evolving world of tech, I'm committed to continuous learning. I stay updated with the latest in web development, whether it's new JavaScript features, emerging frameworks, or best practices. My growth mindset drives me to explore, experiment, and excel in my craft.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
